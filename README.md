@@ -1,3 +1,3 @@
 # lights-out
 My implementation of Lights Out puzzle
-live example: https://erickhost22.000webhostapp.com/pessoal/lights-out/
+live example: http://erick22.rf.gd/lights-out/
